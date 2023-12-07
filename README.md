@@ -14,7 +14,7 @@ You have VSCode extensions for java:
 https://code.visualstudio.com/docs/java/extensions)
 
 ### How to Run:
-    1. Open app root folder in VSCode and wait for VSCode Java extesnion sets up.
+    1. Open app root folder in VSCode and wait for VSCode Java extension sets up.
     2. From "Run and Debug" left pane menu click "Run and Debug" button. 
     3. Select java if prompted to select language to run (first time). You will see the output as below: 
 ```

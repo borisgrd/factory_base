@@ -21,6 +21,7 @@ https://code.visualstudio.com/docs/java/extensions)
 Build Car
 Build Motorcycle
 Future Vehicle Motorcycle
+Future Vehicle Electric Car
 NextGen Motorcycle
 NextGen Electric Car
 ```
